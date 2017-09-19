@@ -3,5 +3,6 @@ def position_taken?(board, index)
 
   if board == [" ", " ", " ", " ", " ", " ", " ", " ", " "] and index == 0 then
     false
+  end
 
 end
